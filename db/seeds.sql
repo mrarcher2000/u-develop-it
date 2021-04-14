@@ -12,11 +12,3 @@ VALUES
   ('Unica', 'Zurn', 1);
 
 
-  UPDATE candidates
-  SET industry_connected = 1
-  WHERE id = 3;
-  
-
-  DELETE FROM candidates
-  WHERE first_name = "Montague";
-  
